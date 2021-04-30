@@ -5,7 +5,7 @@
 
 # What Does this WebApp do?
 
-* Can add Friends with information like twitter username...
+* Can add Friends with information like twitter username,email,Phonenumber
 * Read and Update the information
 * Delete the information 
 * Has a User Login/SignUp Authentication 
