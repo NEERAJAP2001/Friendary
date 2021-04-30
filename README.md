@@ -35,8 +35,52 @@ To get the Rails server running locally:
 ## Walkthrough 
 
 
+### Log-In : 
+
+![1](https://user-images.githubusercontent.com/65017645/116651670-51ac3080-a9a1-11eb-91ef-36b14770229b.png)
+
+
+### Main Page :
+
+![2](https://user-images.githubusercontent.com/65017645/116651696-5f61b600-a9a1-11eb-806f-827fcb78f698.png)
+
+
+### Add New Friend : 
+
+![3](https://user-images.githubusercontent.com/65017645/116651795-9637cc00-a9a1-11eb-827a-923a8b84e86e.png)
+
+### View Friend : 
+
+![4](https://user-images.githubusercontent.com/65017645/116651851-b8314e80-a9a1-11eb-8812-625afb3f9fa1.png)
+
+
+
+### Home Page
+
+![5](https://user-images.githubusercontent.com/65017645/116651890-cc754b80-a9a1-11eb-8455-9e10bc7d1215.png)
+
+
+
+### Edit Profile
+
+![6](https://user-images.githubusercontent.com/65017645/116651990-eb73dd80-a9a1-11eb-969d-acbef4e99e1f.png)
+
+
+
+
+### Forgot Password : 
+
+![8](https://user-images.githubusercontent.com/65017645/116652159-486f9380-a9a2-11eb-918f-16f0308f1eb5.png)
+
+
+
 
 
 ## Future Prosprects :
 
 * Adding a search feature for searching friends by name
+
+
+
+## Refrences : 
+* [Vedio](https://youtu.be/fmyvWz5TUWg)
