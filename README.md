@@ -2,6 +2,16 @@
 
 # ![Rails Example App](Resources/logo.png)
 
+
+# What Does this WebApp do?
+
+* Can add Friends with information like twitter username...
+* Read and Update the information
+* Delete the information 
+* Has a User Login/SignUp Authentication 
+* Update and Delete an Account 
+* In short : All CRUD Operations Can be performed 
+
 # Getting started
 
 To get the Rails server running locally:
@@ -10,7 +20,6 @@ To get the Rails server running locally:
 - `bundle install` to install all req'd dependencies
 - `rake db:migrate` to make all database migrations
 - `rails s` to start the local serve
-
 
 
 
@@ -28,4 +37,6 @@ To get the Rails server running locally:
 
 
 
+## Future Prosprects :
 
+* Adding a search feature for searching friends by name
