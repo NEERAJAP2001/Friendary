@@ -1,6 +1,6 @@
 
 
-# ![Rails Example App](logo.png)
+# ![Rails Example App](Resources/logo.png)
 
 # Getting started
 
