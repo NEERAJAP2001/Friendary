@@ -79,6 +79,7 @@ To get the Rails server running locally:
 ## Future Prosprects :
 
 * Adding a search feature for searching friends by name
+* Calling an API 
 
 
 
